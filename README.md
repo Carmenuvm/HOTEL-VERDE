@@ -1,17 +1,28 @@
 # Hotel Sierra Verde - Mérida, Venezuela
+📌 Descripción del Proyecto
 
-Proyecto final de desarrollo web que simula el sistema de un hotel boutique ubicado en el Estado Mérida.
+Este proyecto consiste en el desarrollo de un sitio web moderno para un hotel, construido con tecnologías frontend actuales. La aplicación presenta información sobre habitaciones, experiencias, servicios, contacto y navegación dinámica mediante secciones organizadas en componentes reutilizables.
 
-## 🚀 Características
-- **Persistencia de Datos:** Manejo de sesión de usuario con `localStorage`.
-- **Clima en Tiempo Real:** Integración con la API de OpenWeatherMap para mostrar el clima actual de Mérida.
-- **Formulario de Contacto:** Configurado con EmailJS para envío directo de correos.
-- **Animaciones:** Uso de Framer Motion para una experiencia interactiva.
+El objetivo principal es ofrecer una experiencia visual atractiva, responsiva y optimizada, aplicando buenas prácticas de desarrollo frontend con arquitectura modular.
 
-## 🛠️ Tecnologías
-- React + Vite
-- TypeScript
-- Tailwind CSS
-- Lucide React (Iconos)
+## 🛠️ Tecnologías utilizadas
 
-**Realizado por:** Danyer
+⚡ Vite – Bundler rápido para desarrollo moderno.
+
+⚛️ React – Biblioteca para construcción de interfaces.
+
+🟦 TypeScript – Tipado estático para mayor robustez.
+
+🎨 Tailwind CSS – Framework de estilos utilitario.
+
+🧩 ShadCN/UI – Componentes UI reutilizables.
+
+🧪 Vitest – Framework para pruebas unitarias.
+
+📦 PostCSS
+
+🔍 ESLint – Linter para mantener calidad de código.
+
+
+
+**Realizado por:** Jose Montilla y Carmen Castellanos
